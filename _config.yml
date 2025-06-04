@@ -85,7 +85,7 @@ comments:
 assets:
   self_host:
     enabled:
-    env: ""
+    env: production
 
 pwa:
   enabled: true
