@@ -24,4 +24,8 @@ package-lock.json
 
 # Misc
 _sass/vendors
+<<<<<<< HEAD
 #assets/js/dist
+=======
+assets/js/dist
+>>>>>>> v7.3.0
